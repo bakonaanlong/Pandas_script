@@ -4,6 +4,8 @@ This is a python script that automates CSV data cleaning and standardization, sa
 
 ---
 ![pic](https://github.com/bakonaanlong/data_cleaning_script/blob/main/script.PNG)
+
+---
 I added a dirty dataset you can use to test this script. Tweak and test however you like.
 
 ---
