@@ -1,8 +1,10 @@
 # data_cleaning_script
 
 This is a powerful Python script that automates CSV data cleaning and standardization, saving hours of manual data preparation work.
+
 ---
 I added a dirty dataset you can use to test this script
+
 ---
 ## Why This Matters
 
