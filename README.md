@@ -1,6 +1,6 @@
 # data_cleaning_script
 
-This is a powerful Python script that automates CSV data cleaning and standardization, saving hours of manual data preparation work.
+This is a python script that automates CSV data cleaning and standardization, saving hours of manual data preparation work.
 
 ---
 ![pic](https://github.com/bakonaanlong/data_cleaning_script/blob/main/script.PNG)
