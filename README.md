@@ -53,8 +53,8 @@ Dirty data costs organizations an average of **$15 million annually** in operati
 
 ```bash
 # Clone the repository
-git clone https://github.com/bakonaanlong/data_cleaning_script.git
-cd data_cleaning_script
+git clone https://github.com/bakonaanlong/Pandas_script.git
+cd Pandas_script
 
 # Install dependencies
 pip install pandas
